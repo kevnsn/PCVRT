@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.rightlist {
+float:right;
+text-align:right;
+margin:.3em 0;	
+	
+}
+
+h4{
+font-size:14px !important;	
+}
+
+.ui-input-text{
+	margin-bottom:5px !important;
+}
+
+.ui-last-child, legend {
+	margin-bottom:5px !important;
+}
